@@ -171,5 +171,3 @@ python test_fewshot.py  --num_support 1  --model 'ctranspath' --method BaselineP
 python test_fewshot.py  --num_support 5  --model 'ctranspath' --method BaselinePlusPlus  --pretrained 'Histo'
 python test_fewshot.py  --num_support 10 --model 'ctranspath' --method BaselinePlusPlus  --pretrained 'Histo'
 ```
-
-This README provides a comprehensive guide for benchmarking pathology foundation models using fine-tuning and few-shot learning strategies across different datasets. Adapt the commands as per your specific environment and requirements.
